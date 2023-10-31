@@ -1,0 +1,39 @@
+Zadanie 1
+Witryna internetowa
+opis i tematyka
+Witryna internetowa (nazywana również serwisem internetowym) to zbiór stron, adresów URL i podstron, które są umieszczone na jednym serwerze i w ramach jednej domeny. Te strony, zwane stronami internetowymi, zawierają informacje o właścicielu witryny, jego firmie lub na dowolny inny temat
+
+Adres URL
+google.com
+
+Portal internetowy
+
+opis i tematyka
+
+Portal internetowy – witryna internetowa zawierająca usługi stanowiące „bramę” do Internetu[1].
+
+Serwis informacyjny zazwyczaj poszerzony jest o różnorodne funkcje internetowe. Portale często oferują darmowe usługi, np. pocztę elektroniczną, czy hosting.
+
+Portal udostępnia informacje będące przedmiotem zainteresowania szerokiego grona odbiorców. Jako przykładową treść można podać: dział aktualnych wiadomości, prognoza pogody, katalog stron WWW, czat, forum dyskusyjne. Zawiera mechanizmy wyszukiwania informacji w nim samym lub w zewnętrznych zasobach Internetu (wyszukiwarki internetowe). W intencji twórców portali jest zachęcanie użytkowników do ustawienia adresu portalu jako strony startowej w przeglądarce WWW.
+Adres URL: onet.pl
+
+Sklep internetowy
+
+Sklep internetowy – serwis internetowy dający możliwość kupowania i sprzedawania produktów przez Internet, jedna z form handlu elektronicznego. Sklep internetowy jest częścią relacji B2C, rzadziej B2B.
+
+Forma ta staje się obecnie coraz popularniejsza z uwagi na wygodę i obniżenie kosztów sprzedaży (i często wynikające z tego niższe ceny towarów), a ponadto daje to możliwość szybkiego porównania cen u wielu dostawców. Częścią sklepów internetowych jest strona internetowa, na której klienci zapoznają się z ofertą i składają zamówienia (zakupy przez Internet). By skorzystać z usług sklepu internetowego potrzebna jest przeglądarka internetowa.
+
+Adres URL: Allegro.pl
+
+Blog tekstowy:
+
+Blog tekstowy jest to najpopularniejszy rodzaj bloga. W blogach tekstowych najistotniejszą częścią przekazu stanowią publikowane artykuły oraz teksty.
+
+adres url: blogger.com
+
+Wideoblog
+
+opis i tematyka:  
+: Wideoblog – rodzaj bloga internetowego, którego zasadniczą treść stanowią pliki filmowe publikowane przez autora w kolejności chronologicznej. Pliki udostępniane są do odtwarzania w technologii video-streamingu lub do pobrania na komputer użytkownika – gościa i widza wideobloga.
+
+Adres url: youtube.com
