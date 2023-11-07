@@ -37,3 +37,18 @@ opis i tematyka:
 : Wideoblog – rodzaj bloga internetowego, którego zasadniczą treść stanowią pliki filmowe publikowane przez autora w kolejności chronologicznej. Pliki udostępniane są do odtwarzania w technologii video-streamingu lub do pobrania na komputer użytkownika – gościa i widza wideobloga.
 
 Adres url: youtube.com
+
+Zadanie 2
+Portal internetowy
+
+Test1
+Zadanie 1
+A
+Zad.2
+D
+Zad.3
+C
+Zad.4
+B
+Zad.5
+A
