@@ -1,3 +1,97 @@
+Karta pracy 1
+html 4.01
+
+Element	Zamiennik
+APPLET	OBJECT
+BASEFONT	CSS: color, font-family, font-size
+CENTER	CSS: text-align
+DIR	UL
+FONT	CSS: color, font-family, font-size
+ISINDEX	INPUT
+MENU	UL
+S	CSS: text-decoration
+STRIKE	CSS: text-decoration
+U	CSS: text-decoration
+
+HTML5
+
+NOWE ZNACZNIKI OBSŁUGI TREŚCI MULTIMEDIALNEJ
+Znacznik	Opis
+<audio>	Znacznik odpowiadający strumieniowi audio
+<video>	Znacznik osadzania materiału filmowego
+<source>	Umożliwia definiowanie kilku różnych źródeł dla elementów (znaczników) audio/video
+<embed>	Osadzenie zewnętrznej zawartości (np. plug-in)
+<track>	Dodatkowa ścieżka dla audio lub video (np. napisy)
+NOWE ZNACZNIKI OBSŁUGI FORMULARZY
+Znacznik	Opis
+<datalist>	Definiuje zestaw elementów option z domyślnymi własnościami
+<keygen>	Kontrolka do generowania pary kluczów publicznego i prywatnego
+<output>	Przedstawia wynik obliczeń
+NOWY ZNACZNIK <CANVAS>
+Znacznik	Opis
+<canvas>	Obszar zależny od rozdzielczości, służący do wyświetlania dynamicznej grafiki
+NOWY ZNACZNIKI STRUKTURALNE I SEMANTYCZNE
+ 
+
+Znacznik	Opis
+<audio>	Znacznik odpowiadający strumieniowi audio
+<video>	Znacznik osadzania materiału filmowego
+<source>	Umożliwia definiowanie kilku różnych źródeł dla elementów (znaczników) audio/video
+<embed>	Osadzenie zewnętrznej zawartości (np. plug-in)
+<track>	Dodatkowa ścieżka dla audio lub video (np. napisy)
+NOWE ZNACZNIKI OBSŁUGI FORMULARZY
+ 
+
+Znacznik	Opis
+<datalist>	Definiuje zestaw elementów option z domyślnymi własnościami
+<keygen>	Kontrolka do generowania pary kluczów publicznego i prywatnego
+<output>	Przedstawia wynik obliczeń
+NOWY ZNACZNIK <CANVAS>
+ 
+
+Znacznik	Opis
+<canvas>	Obszar zależny od rozdzielczości, służący do wyświetlania dynamicznej grafiki
+NOWY ZNACZNIKI STRUKTURALNE I SEMANTYCZNE
+Znacznik	Opis
+<article>	Określa sekcję reprezentującą pojedyczną część serwisu (np. artykuł)
+<aside>	Dodatkowa, poboczna treść w stosunku do artykułu
+<bdi>	Oznaczenie dla fragmentu tekstu zapisanego w formacie dwukierunkowym
+<command>	Definicja komendy wywoływanej przez użytkownika np. polecenie menu
+<details>	Definiuje kontrolkę prezentującą dodatkowe informacje
+<summary>	Podsumowanie, etykieta lub legendla dla elementu details
+<figure>	Określa ilustrację i jej zawartość
+<figcaption>	Opis lub legenda elementu znacznika figure
+<footer>	Określa stopkę dla elementu, do którego się odnosi
+<header>	Określa nagłówek dla elementu, do którego się odnosi
+<mark>	Uwydatnienie tekstu
+<meter>	Wartość skalarna lub liczba z przedziału np. wolne miejsce na dysku
+<nav>	Sekcja odsyłaczy nawigacyjnych do innych stron lub w ramach dokumentu
+<progress>	Postęp wykonywania procesu lub zadania
+<ruby>	Adnotacja RUBY
+<rt>	Znacznik RUBY RT
+<rp>	Znacznik RUBY RP – wyznacza ramy, w których ukazuje się adnotacja w przeglądarce, która nie interpretuje RUBY
+<section>	Sekcja dokumentu
+<time>	Oznacza datę i/lub czas/time
+<wbr>	Łamanie wiersza
+ELEMENTY USUNIĘTE Z HTML 5 W STOSUNKU DO HTML 4.01
+Następujące znaczniki ze specyfikacji HTML 4.01 zostały usunięte z obecnej (w czasie pisania artykułu) wersji HTML 5. HTML 5 jest nadal standardem w wersji rozwojowej, więc do przedstawionej listy mogą zostać wprowadzone pewne zmiany w przyszłości.
+
+<acronym>
+<applet>
+<basefont>
+<big>
+<center>
+<dir>
+<font>
+<frame>
+<frameset>
+<noframes>
+<strike>
+<tt>
+
+
+
+
 Zadanie 1
 Witryna internetowa
 opis i tematyka
