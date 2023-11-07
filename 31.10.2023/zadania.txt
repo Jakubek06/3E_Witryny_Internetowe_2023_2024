@@ -89,6 +89,26 @@ Następujące znaczniki ze specyfikacji HTML 4.01 zostały usunięte z obecnej (
 <strike>
 <tt>
 
+2. 
+Istotne zmiany i różnice
+
+Przejdźmy do zmian, które widoczne są między standardami HTML 4 i HTML 5.
+
+– W języku HTML 5 usunięto przestarzałe instrukcje: <basefront>, <big>, <center>, <strike>, <frame>, <frameset>, <tt>.
+
+– W miejsce usuniętych dyrektyw wprowadzono nowe instrukcje: <article>, <header>, <details>, <figure>, <nav>, <section>, <mark>, <time>, <audio>,<video>, <source>, <bdo>, <rp>.
+
+– Wersja 5 upraszcza zapis znaczników językowych (obecnie wystarczy zapis: <meta charset=”UTF-8″ />, wcześniejszy zapis wyglądał następująco: <meta http-equiv=”content-type” content=”text/html;charset=UTF-8″ />)
+
+– Wprowadzono moduł API i kompleksową obsługę multimediów.
+
+3.
+
+HTML 4.0 - https://www.w3.org/TR/1998/REC-html40-19980424/
+HTML 4.01 - https://www.w3.org/TR/html401/
+HTML5 - https://pl.wikipedia.org/wiki/HTML5
+
+
 
 
 
