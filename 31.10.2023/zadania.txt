@@ -39,7 +39,55 @@ opis i tematyka:
 Adres url: youtube.com
 
 Zadanie 2
-Portal internetowy
+Portal internetowy, ponieważ jest to strona wydawnictwa WSiP przeznaczona dla uczniów i nauczycieli o materiałach dydaktycznych, podręcznikach szkolnych.
+
+Zadanie 3
+1. błędna
+2. błędna
+3. poprawna
+4. poprawna
+5. poprawna
+
+Zadanie 4
+Wersje HTML
+lipiec 1993: Hypertext Markup Language, szkic opublikowany przez IETF[11].
+
+listopad 1995: opublikowany przez IETF jako Request for Comments:
+
+RFC 1866 ↓
+uzupełniony przez RFC 1867 ↓ (upload plików za pomocą formularza) tego samego miesiąca
+RFC 1942 ↓ (tabele) maj 1996
+RFC 1980 ↓ (mapy odsyłaczy po stronie klienta) sierpień 1996
+RFC 2070 ↓ (internacjonalizacja) styczeń 1997.
+Ostatecznie, wszystkie elementy zostały uznane za przestarzałe/historyczne przez RFC 2854 ↓ w czerwcu 2000.
+
+Standard HTML 3.0 został przedstawiony IETF przez Dave’a Raggeta i W3C w kwietniu 1995. Zawierał znaczną część funkcjonalności HTML+ Raggetta, na przykład obsługę tabel, oblewanie tekstem obiektów, wyświetlanie skomplikowanych wyrażeń matematycznych[12]. Mimo kompatybilności z HTML 2.0 był zbyt złożony (jak na owe czasy), aby go zaimplementować. Producenci przeglądarek optowali tylko za częścią nowego standardu, ale zaimplementowali inne znaczniki[13]. Z uwagi na brak obsługi ze strony przeglądarek prace nad wersją 3.0 zostały przerwane.
+
+HTML 3.1 nigdy nie został oficjalnie zaproponowany. Światło dzienne ujrzała za to kolejna wersja HTML 3.2 (nazwa kodowa: Wilbur), w której zrezygnowano z wielu rozwiązań zastosowanych w HTML 3.0 na rzecz nowych znaczników i atrybutów wykorzystywanych już przez przeglądarki Netscape i Mosaic[14].
+
+14 stycznia 1997: HTML 3.2, opublikowany jako rekomendacja W3C[15].
+
+IETF także nie miała szansy zatwierdzić HTML 3.2. Pracująca nad tą wersją grupa HTML Working Group została zamknięta we wrześniu 1996[16]. Ostatecznie wersja 3.2 została opublikowana jako pierwsza rekomendacja W3C w 1997. Obsługa wyrażeń matematycznych zapoczątkowana w HTML 3.0 po kilku latach doczekała się własnego standardu – MathML .
+
+18 grudnia 1997: HTML 4.0, opublikowany jako rekomendacja W3C. Zaoferowany w trzech typach[17]:
+
+Strict, w którym używanie elementów uznanych za przestarzałe jest zabronione.
+Transitional, w którym używanie elementów uznanych za przestarzałe jest dopuszczalne.
+Frameset, w którym dopuszczone są głównie elementy związane z ramkami.
+24 kwietnia 1998: HTML 4.0 z drobnymi poprawkami został powtórnie opublikowany bez zmiany wersji.
+
+24 grudnia 1999: HTML 4.01, opublikowany jako rekomendacja W3C. Oferuje te same typy, które oferował HTML 4.0[18]. Ostatnia errata została wydana 12 maja 2001[19].
+
+HTML 4.01 oraz ISO/IEC 15445:2000 są najnowszymi i najbardziej aktualnymi wersjami standardu HTML.
+
+15 maja 2000: HTML ISO/IEC 15445:2000 "ISO HTML", opublikowany na bazie HTML 4.01 Strict, jako międzynarodowy standard ISO/IEC[20].
+
+22 stycznia 2008: HTML 5, opublikowany przez W3C jako szkic („Working Draft”)[21].
+
+28 października 2014: HTML 5, opublikowany jako rekomendacja W3C[22].
+
+
+
 
 Test1
 Zadanie 1
