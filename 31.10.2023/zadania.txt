@@ -214,3 +214,11 @@ Zad.4
 B
 Zad.5
 A
+
+
+
+ZADANIE EGZAMINACYJNE
+
+CSS - informuje się przeglądarkę internetową, jak ma wyświetlać elementy strony ustrukturyzowane w języku HTML – od rozmieszczenia obrazów i tekstu, po rozmiar czcionki i kolor tła.
+JAVASCRIPT - MA ZASTOSOWANIE DO FORMULARZY
+HTML - PODSTAWA DO WYKONANIA STRONY - ZASTOSOWANIE DO NAJPROSTSZYCH STRON
