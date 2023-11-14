@@ -3,7 +3,11 @@ jest w pliku HTML
 14112023.html
 
 Zadanie 1
+Strict DTD - (ścisła) zawiera wszystkie elementy i atrybuty, które nie są zdeprecjonowane (nie deprecated) oraz nie pojawiają się w dokumentach z ramkami (ponadto nie obejmuje elementu IFRAME ani atrybutu target="...")
 
+Transitional DTD - (przejściowa) lub inaczej loose DTD ("luźna") - zawiera wszystko co w Strict DTD plus elementy i atrybuty zdeprecjonowane oraz element IFRAME i atrybut target="..."
+
+Frameset DTD - (dla ramek) zawiera wszystko co w Transitional DTD plus elementy odnoszące się do ramek: FRAME, FRAMESET oraz NOFRAMES (używane na stronach startowych ramek)
 
 Zadanie 2 
 plik zadanie_2.html
