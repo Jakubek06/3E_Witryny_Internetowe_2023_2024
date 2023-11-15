@@ -26,3 +26,5 @@ Test 2
 4. A
 5. B
 
+Zad egzaminacyjne 1
+plik index.html
