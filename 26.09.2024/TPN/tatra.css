@@ -1,0 +1,11 @@
+.section {
+    position: sticky;
+}
+
+.img {
+    position: sticky;
+    top: 90%;
+    width: 500px;
+    padding-bottom: 620px;
+    left: 60%;
+}

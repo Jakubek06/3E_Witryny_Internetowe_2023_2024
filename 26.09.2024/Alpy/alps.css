@@ -1,0 +1,10 @@
+.section {
+    position: relative;
+}
+
+.img {
+    position: absolute;
+    top: 40%;
+    width: 300px;
+    left: 40%;
+}
