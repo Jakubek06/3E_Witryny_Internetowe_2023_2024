@@ -1,0 +1,31 @@
+ul, li{display: block; margin: 0; padding: 0;}
+ul {width: 150px;}
+
+
+ul a:link { display: block; width: 140px;
+background-color: #66ffff;
+color: #380c80;
+padding: 4px;
+border: 3px outset #003300
+}
+
+
+ul a:visited 
+{
+    color: #00ff00;
+
+}
+
+ul a:hover 
+{
+    color: #22ddff;
+
+}
+
+
+ul a:active
+{
+    color: #0000ff;
+
+
+}
